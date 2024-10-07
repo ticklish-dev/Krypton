@@ -702,7 +702,7 @@ local function ConnectHats(Part0, Part1, Offset) -- : nil
 end
 
 local function GetRandomRadius() -- : Vector3
-	return Vector3.new(math.random(-TeleportOffsetRadius, TeleportOffsetRadius), 0.5, math.random(-TeleportOffsetRadius, TeleportOffsetRadius))
+	return Vector3.new(math.random(-TeleportOffsetRadius, TeleportOffsetRadius), -5, math.random(-TeleportOffsetRadius, TeleportOffsetRadius))
 end
 
 local function ArePlayersNearby() -- : Boolean
