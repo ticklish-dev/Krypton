@@ -1,4 +1,4 @@
-https://github.com/user-attachments/assets/1324e775-2703-4744-861e-ea4ccae934ae](https://cdn.discordapp.com/attachments/1242083144417411165/1292658980790861855/hubert-skeletrix.png?ex=670489fd&is=6703387d&hm=8cb4712a3eae3e97070b2b2675ea8534be930919ff16cbdd278c6a0dc8d167bc&)
+https://cdn.discordapp.com/attachments/1242083144417411165/1292658980790861855/hubert-skeletrix.png?ex=670489fd&is=6703387d&hm=8cb4712a3eae3e97070b2b2675ea8534be930919ff16cbdd278c6a0dc8d167bc&
 
 
 > [!NOTE]
