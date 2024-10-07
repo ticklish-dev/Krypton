@@ -28,7 +28,7 @@ local DisableCharacterScripts = Configuration.DisableCharacterScripts or true
 local AccessoryFallbackDefaults = Configuration.AccessoryFallbackDefaults or true
 
 local DefaultHats = {
-	["Right Arm"] = {
+["Right Arm"] = {
 		{Texture = "14255544465", Mesh = "14255522247", Name = "RARM", Offset = CFrame.Angles(0, 0, math.rad(90))},
 		{Texture = "4645402630", Mesh = "3030546036", Name = "International Fedora", Offset = CFrame.Angles(math.rad(-90), 0, math.rad(90))}
 	},
@@ -49,10 +49,11 @@ local DefaultHats = {
 	},	
 
 	["Torso"] = {
-		{Texture = "13415110780", Mesh = "13421774668", Name = "MeshPartAccessory", Offset = CFrame.identity},
+		{Texture = "14251599953", Mesh = "14241018198", Name = "Black", Offset = CFrame.identity},
 		{Texture = "4819722776", Mesh = "4819720316", Name = "MeshPartAccessory", Offset = CFrame.Angles(0, 0, math.rad(-15))}
 	},
 }
+
 
 -- namecalls sucks
 local Hats = Configuration.Hats or DefaultHats
