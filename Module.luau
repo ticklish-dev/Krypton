@@ -12,6 +12,7 @@ local RigName = Configuration.RigName or "Evolution, it must've passed you by."
 
 local WaitTime = Configuration.WaitTime or 0.25
 local TeleportOffsetRadius = Configuration.TeleportOffsetRadius or 12
+local VerticalOffset = Configuration.VerticalOffset or 0.5
 
 local Flinging = Configuration.Flinging or true
 local PresetFling = Flinging and Configuration.PresetFling or nil
