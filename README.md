@@ -1,4 +1,5 @@
-https://cdn.discordapp.com/attachments/1242083144417411165/1292658980790861855/hubert-skeletrix.png?ex=670489fd&is=6703387d&hm=8cb4712a3eae3e97070b2b2675ea8534be930919ff16cbdd278c6a0dc8d167bc&
+
+![hubert-skeletrix](https://github.com/user-attachments/assets/7335d266-cecf-4be8-9e6f-4cf4bc682ba1)
 
 
 > [!NOTE]
