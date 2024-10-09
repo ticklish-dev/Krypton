@@ -191,6 +191,16 @@ local function CancelScript()  -- : nil
 	end
 end
 
+local function isMouseButtonDown(inputType)
+	for _,button in pairs(UserInputService:GetMouseButtonsPressed()) do
+		if button.UserInputType == inputType then
+			return true
+		end
+	end
+	return false
+end
+
+
 do -- [[ Scoped Rig Creating. ]]
 	local HumanoidDesc = Instance.new("HumanoidDescription")
 	local Animator = Instance.new("Animator")
